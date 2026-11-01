@@ -170,7 +170,6 @@ Dokumentasi rancangan sistem dapat ditemukan pada folder `docs/`:
 
 - `erd.md` – Entity Relationship Diagram.
 - `architecture.md` – Diagram arsitektur dan alur aplikasi.
-- `screenshots/` – Bukti tampilan aplikasi.
 
 ## Pengembang
 
